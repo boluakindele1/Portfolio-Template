@@ -35,6 +35,7 @@ const Hero = () => {
           </div>
 
           <div>
+            
             <h1
               className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase`}>
               Hi, I'm{' '}
@@ -42,11 +43,11 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Shaquille
+                Bolu
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
+              I am currently a senior Computer Science major at Murray State University <br className="sm:block hidden" />
               consectetur adipisicing elit deleniti, voluptas.
             </p>
           </div>
